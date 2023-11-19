@@ -1,0 +1,7 @@
+{
+  "name": "Pane Demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
